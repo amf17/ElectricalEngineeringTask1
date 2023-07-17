@@ -1,4 +1,4 @@
-Turning on the eye as a single light.
+#Turning on the eye as a single light.
 
 As you can see, the electrical circuit in the image below contains several components 
 
