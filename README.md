@@ -41,7 +41,7 @@ Connect the Arduino board's 5V and GND pins to the power rails on the breadboard
 Connect the Arduino board to a power source, either via USB or an external power supply.
 
 
-
+The LED should respond to the state of the switch or sensor connected to pin 2, indicating digital input and output control with Arduino.
 
 ![picture](Circuit.jpeg)
 
