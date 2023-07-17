@@ -1,6 +1,6 @@
 # Turning on the eye as a single light.
 
-As you can see, the electrical circuit in the image below contains several components 
+## Circuit Components:
 
 Arduino Uno R3
 
@@ -14,7 +14,8 @@ Pushbutton
 
 ![picture](Circuit.jpeg)
 
-## Code
+## Arduino Code Explanation:
+
 ```
 void setup()
 {
