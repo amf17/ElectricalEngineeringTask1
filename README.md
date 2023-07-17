@@ -13,29 +13,31 @@ Red LED
 Pushbutton
 
 ## Circuit Installation Steps:
-Connect the Arduino board:
+1-Connect the Arduino board:
 
 Place the Arduino board on a stable surface.
 
 
-Connect the LED:
+2-Connect the LED:
 
 Insert the longer leg (anode) of the LED into a digital pin on the Arduino board (e.g., pin 13).
 Connect the shorter leg (cathode) of the LED to the 220-ohm resistor.
 Connect the other end of the resistor to the GND (ground) pin on the Arduino board.
 
 
-Connect the switch/sensor:
+3-Connect the switch/sensor:
 
 Insert one leg of the switch/sensor into a digital pin on the Arduino board 
 Connect the other leg of the switch/sensor to the 5V pin on the Arduino board.
 If using a push-button switch, connect a 10k-ohm resistor between the pin connected to the switch and the GND pin on the Arduino board to create a pull-down configuration.
 
-Use a breadboard:
+4-Use a breadboard:
+
 Connect the Arduino board's 5V and GND pins to the power rails on the breadboard.
 
 
-Connect the power supply:
+5-Connect the power supply:
+
 Connect the Arduino board to a power source, either via USB or an external power supply.
 
 
