@@ -15,7 +15,7 @@ Pushbutton
 ![picture](Circuit.jpeg)
 
 ## Code
-
+```
 void setup()
 {
   pinMode(2, INPUT);
@@ -31,7 +31,7 @@ void loop()
   }
   delay(10); // Delay a little bit to improve simulation performance
 }
-
+```
 The code you provided is an example of an Arduino sketch written in the Arduino programming language. It sets up the Arduino board to configure pin 2 as an input and pin 13 as an output in the `setup()` function.
 
 In the `loop()` function, the code checks the state of pin 2 using the `digitalRead()` function. If pin 2 is in a HIGH state, it means that a voltage signal is detected, and the code sets pin 13 to a HIGH state using the `digitalWrite()` function. This turns on an LED or any other device connected to pin 13.
