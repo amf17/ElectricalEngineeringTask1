@@ -73,3 +73,7 @@ If pin 2 is in a LOW state, indicating no voltage signal, the code sets pin 13 t
 The `delay(10)` statement introduces a 10-millisecond delay between iterations of the loop to improve the performance of the simulation.
 
 This code essentially reads the input state of pin 2 and mirrors it by setting the output state of pin 13 accordingly. If pin 2 is HIGH, pin 13 will be set HIGH, and if pin 2 is LOW, pin 13 will be set LOW.
+
+
+### Tinkercad Link
+https://www.tinkercad.com/things/hcEpSThEnBB?sharecode=k8l6ACfl37qY91dgPputPH1Uh7PxUs7xKUjR4_smq6E
